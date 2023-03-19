@@ -1,11 +1,3 @@
-// @before-stub-for-debug-begin
-#include <vector>
-#include <string>
-#include "commoncppproblem283.h"
-
-using namespace std;
-// @before-stub-for-debug-end
-
 /*
  * @lc app=leetcode id=283 lang=cpp
  *
